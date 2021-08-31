@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.381227bf.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.543a701f.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.543a701f.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.bb083c5b.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.bb083c5b.js.map",
+    "static/js/2.9a65bbe3.chunk.js": "/react-portfolio/static/js/2.9a65bbe3.chunk.js",
+    "static/js/2.9a65bbe3.chunk.js.map": "/react-portfolio/static/js/2.9a65bbe3.chunk.js.map",
+    "static/js/3.b11c9630.chunk.js": "/react-portfolio/static/js/3.b11c9630.chunk.js",
+    "static/js/3.b11c9630.chunk.js.map": "/react-portfolio/static/js/3.b11c9630.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.381227bf.chunk.css.map": "/react-portfolio/static/css/main.381227bf.chunk.css.map",
+    "static/js/2.9a65bbe3.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.9a65bbe3.chunk.js.LICENSE.txt",
+    "static/media/Anniversary.module.css": "/react-portfolio/static/media/Annivers_10.c5813585.jpg",
+    "static/media/Blog-landing.module.css": "/react-portfolio/static/media/Blog_1.c32fd39d.jpg",
+    "static/media/bonnya_cat.df0d347c.jpg": "/react-portfolio/static/media/bonnya_cat.df0d347c.jpg",
+    "static/media/fountain.0ab5d713.jpg": "/react-portfolio/static/media/fountain.0ab5d713.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb083c5b.js",
+    "static/js/2.9a65bbe3.chunk.js",
+    "static/css/main.381227bf.chunk.css",
+    "static/js/main.543a701f.chunk.js"
+  ]
+}
